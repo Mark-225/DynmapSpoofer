@@ -1,0 +1,6 @@
+name: dynmap
+author: Mark_225
+version: 1.0
+main: de.mark225.dynmapspoof.DynmapSpoofer
+
+depend: [BlueMap]
